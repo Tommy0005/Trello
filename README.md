@@ -1,4 +1,4 @@
-# **Trello*
+# **Trello**
 
 Un Trello-clone open-source: backend e frontend per una piattaforma Kanban collaborativa in tempo reale.
 
